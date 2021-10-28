@@ -1,0 +1,6 @@
+{
+	"appId": "com.evdeveloper.devpush",
+	"appName": "pushApp",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
